@@ -9,5 +9,6 @@ public class Ejemplos {
         int entero = 999999999; //32 bits --> 4 bytes
         short corto; // 16 bits --> 2 bytes
         byte b; //8 bits
+        int = 12312313;
     }
 }
